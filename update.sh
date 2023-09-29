@@ -6,3 +6,4 @@ rm -rf __MACOSX release.zip
 
 mv release server
 echo "\033[0;34mUpdated Red!\033[0m"
+ls ./server
