@@ -4,6 +4,6 @@ rm -rf server
 unzip -q release.zip
 rm -rf __MACOSX release.zip
 
-mv release server
+mv build server
 echo "\033[0;34mUpdated Red!\033[0m"
 ls ./server

@@ -18,4 +18,3 @@ cp demo.sh build/
 rm release.zip
 echo "\033[0;34mGenerating Archive...\033[0m"
 zip -r release.zip build
-rm -rf build

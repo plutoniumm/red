@@ -1,6 +1,7 @@
 # RedPitaya LocalServer
 
 ## Run
+Note: for linux use `red-nix` and for macos use `red-mac`. The `red` here is a placeholder for either of the two.
 ```sh
 # run on port 1337
 ./server/red
